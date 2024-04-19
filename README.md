@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Pawansharma12012
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Pawansharma12012 aka the_air_sharma
+- 👀 I’m interested in CyberSecurity
+- 🌱 I’m currently learning web development and Web3 testing
+- 💞️ I’m looking to collaborate on Bug Bounty Hunting
+ 
 
 <!---
 Pawansharma12012/Pawansharma12012 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
