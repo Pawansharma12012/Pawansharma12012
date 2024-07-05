@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pawansharma12012 aka the_air_sharma
 - 👀 I’m interested in CyberSecurity
-- 🌱 I’m currently learning web development and Web3 testing
+- 🌱 I’m currently learning web development and Web3 security.
 - 💞️ I’m looking to collaborate on Bug Bounty Hunting
  
 
